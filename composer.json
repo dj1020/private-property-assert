@@ -1,0 +1,10 @@
+{
+    "name": "twinkledj/phpunit",
+    "authors": [
+        {
+            "name": "TWK DJ",
+            "email": "dj1020@gmail.com"
+        }
+    ],
+    "require": {}
+}
